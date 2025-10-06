@@ -33,7 +33,7 @@ Clone the repo:
 
 Bash
 
-git clone https://github.com/your_username/diabetes-prediction-svm.git
+git clone https://github.com/am-prasad/Diabetics_prediction.git
 Install the required packages:
 
 Bash
